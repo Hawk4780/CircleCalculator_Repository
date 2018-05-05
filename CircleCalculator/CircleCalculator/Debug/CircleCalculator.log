@@ -1,0 +1,10 @@
+﻿  UserInterface.cpp
+  SwitchStatements.cpp
+e:\esoft project\hnd units\programin\circlecalculator\circlecalculator\switchstatements.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\esoft project\hnd units\programin\circlecalculator\circlecalculator\switchstatements.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\esoft project\hnd units\programin\circlecalculator\circlecalculator\switchstatements.cpp(100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\esoft project\hnd units\programin\circlecalculator\circlecalculator\switchstatements.cpp(102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CircleCalculator.cpp
+  Generating Code...
+  CircleCalculator.vcxproj -> E:\ESOFT Project\HND Units\Programin\CircleCalculator\Debug\CircleCalculator.exe
+  CircleCalculator.vcxproj -> E:\ESOFT Project\HND Units\Programin\CircleCalculator\Debug\CircleCalculator.pdb (Full PDB)
